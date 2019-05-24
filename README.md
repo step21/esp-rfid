@@ -1,6 +1,7 @@
 # ESP RFID - Access Control with ESP8266, RC522 PN532 Wiegand RDM6300
 
 [![Chat at https://gitter.im/esp-rfid/Lobby](https://badges.gitter.im/esp-rfid.svg)](https://gitter.im/esp-rfid/Lobby) [![Build Status](https://travis-ci.org/esprfid/esp-rfid.svg?branch=stable)](https://travis-ci.org/esprfid/esp-rfid) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d475052a09bd4865bc2654f524614cba)](https://www.codacy.com/app/omersiar/esp-rfid?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=esprfid/esp-rfid&amp;utm_campaign=Badge_Grade) [![BCH compliance](https://bettercodehub.com/edge/badge/esprfid/esp-rfid?branch=stable)](https://bettercodehub.com/) [![Bountysource](https://api.bountysource.com/badge/team?team_id=242217)](https://salt.bountysource.com/checkout/amount?team=esp-rfid)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstep21%2Fesp-rfid.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstep21%2Fesp-rfid?ref=badge_shield)
 
 Access Control system using a cheap MFRC522, PN532 RFID, RDM6300 readers or Wiegand RFID readers and Espressif's ESP8266 Microcontroller. 
 
@@ -222,3 +223,6 @@ If this project helps you in a way, you can buy us a beer. You can make a donati
 
 ## License
 The code parts written by ESP-RFID project's authors are licensed under [MIT License](https://github.com/esprfid/esp-rfid/blob/stable/LICENSE), 3rd party libraries that are used by this project are licensed under different license schemes, please check them out as well.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstep21%2Fesp-rfid.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstep21%2Fesp-rfid?ref=badge_large)
